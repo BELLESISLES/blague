@@ -25,7 +25,7 @@ SECRET_KEY = 'ksnbv)rf7$gwn)2f3l6-0g1i(&*=_#p$%j0s45453%*=e75&rf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bellesisles.pythonanywhere.com']
 
 
 # Application definition
